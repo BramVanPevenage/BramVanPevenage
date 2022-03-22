@@ -24,9 +24,13 @@ jobs:
           plugin_introduction_title: no
           plugin_isocalendar: no
           plugin_isocalendar_duration: half-year
+          # Language Metrics
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
+          plugin_languages_limit: 5
+          plugin_languages_details: percentage, lines
+          #
           plugin_lines: yes
           plugin_stackoverflow: no
           plugin_stackoverflow_limit: 2
