@@ -16,8 +16,11 @@ jobs:
 
           # Options
           user: BramVanPevenage
+          filename: github-metrics-bram_van_pevenage.svg
           template: classic
           base: header, activity, community, repositories, metadata
+          repositories-forks: no
+          repositories_affiliations: owner, organization_member, collaborator
           config_timezone: Europe/Brussels
           plugin_followup: no
           plugin_introduction: no
@@ -30,7 +33,9 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_limit: 5
           plugin_languages_details: percentage, lines
-          #
+          # Achiefments plugin
+          plugin_achievements: yes
+          #lines
           plugin_lines: yes
           plugin_stackoverflow: no
           plugin_stackoverflow_limit: 2
