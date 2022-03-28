@@ -22,7 +22,6 @@ jobs:
           repositories-forks: no
           repositories_affiliations: owner, organization_member, collaborator
           config_timezone: Europe/Brussels
-          plugin_followup: no
           plugin_introduction: no
           plugin_introduction_title: no
           plugin_isocalendar: no
@@ -35,6 +34,9 @@ jobs:
           plugin_languages_details: percentage, lines
           # Achiefments plugin
           plugin_achievements: yes
+          # Issue tracker plugin
+          plugin_followup: yes
+          plugin_followup_sections: repository, user
           #lines
           plugin_lines: yes
           plugin_stackoverflow: no
