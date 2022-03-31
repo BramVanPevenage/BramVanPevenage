@@ -19,7 +19,6 @@ jobs:
           filename: github-metrics-bram_van_pevenage.svg
           template: classic
           base: header, activity, community, repositories, metadata
-          repositories-forks: no
           repositories_affiliations: owner, organization_member, collaborator
           config_timezone: Europe/Brussels
           plugin_introduction: no
