@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -327,11 +327,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="197.91124026228164" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="197.91124026228164" y="0" width="77.37244153309888" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="275.2836817953805" y="0" width="67.95614678785451" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="343.23982858323507" y="0" width="62.81959419677118" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="406.05942278000623" y="0" width="53.940577219993784" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="197.91161494438504" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="197.91161494438504" y="0" width="77.37258801325382" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="275.28420295763885" y="0" width="67.9562754412447" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="343.24047839888357" y="0" width="62.818842261764004" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="406.05932066064753" y="0" width="53.94067933935246" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -746,7 +746,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.04620123203286 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.25838466803559 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -807,7 +807,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 9.58m out of 93m users</span>
+                                    <span class="gh">ranked 9.59m out of 93m users</span>
                                 </div>
                                 <div class="text">Published 4 public repositories</div>
                             </div>
@@ -922,7 +922,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.05m out of 93m users</span>
+                                    <span class="gh">ranked 2.06m out of 93m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -1135,7 +1135,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2022, 02:39:07 (timezone Europe/Brussels) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 7 Jul 2022, 02:38:48 (timezone Europe/Brussels) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
