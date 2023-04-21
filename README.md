@@ -1,6 +1,6 @@
 # Hi there, I'm Bram Van Pevenage 👋
 
-I am a Student with 4+ years of experience in SOftware development. I am passionate about .NET, Java, Scala, ... and have been working on various projects in this field.
+I am a Student with 4+ years of experience in Software development. I am passionate about .NET, Java, Scala, ... and have been working on various projects in this field.
 
 ## 🔭 Current Project
 
@@ -12,7 +12,7 @@ I am continuously learning and growing my skills [@VUB](https://www.vub.be/en) -
 
 ## 📫 Contact Me
 
-You can reach me at [my mail](bramvan.pevenage@gmail.com).
+You can reach me at [bramvan.pevenage@gmail.com](bramvan.pevenage@gmail.com).
 
 ## ⚡ Fun Fact
 ![Metrics](https://github.com/BramVanPevenage/BramVanPevenage/blob/main/github-metrics-bram_van_pevenage.svg)
