@@ -1,6 +1,6 @@
 # Hi there, I'm Bram Van Pevenage 👋
 
-I am a Student with 4+ years of experience in Software development. I am passionate about .NET, Java, Scala, ... and have been working on various projects in this field.
+I am a developer with 4+ years of experience in Software development. I am passionate about .NET, Java, Scala, ... and have been working on various projects in this field.
 
 ## 🔭 Current Project
 
