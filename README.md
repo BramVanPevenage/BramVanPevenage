@@ -9,7 +9,7 @@ I also have 2 projects for another course calles Parallelism & Distribution (P&D
 
 ## 🌱 Learning Journey/Goals
 
-I am continuously learning and growing my skills. Currently in my very first job, as i already gratuated from the Bachelor of Computer Science @ [Odisee](https://www.odisee.be/en) Higher Education College.
+I am continuously learning and growing my skills. Currently in my very first job @Symeta-Hybrid, as i already gratuated from the Bachelor of Computer Science @ [Odisee](https://www.odisee.be/en) Higher Education College.
 
 ## 📫 Contact Me
 
