@@ -3,7 +3,7 @@
 I am a developer with 4+ years of experience in software development. I am passionate about .NET, Java, Scala, ... and have been working on various projects in this field.
 
 ## 🔭 Current Project
-ASP .NET Core Application 
+.NET Core Applications of Symeta-Hybrid
 
 ## 🌱 Learning Journey/Goals
 
