@@ -1,4 +1,4 @@
-name: Metrics
+name: Load Metrics into readme
 on:
   # Schedule updates (each day at 00:00)
   schedule: [{cron: "00 00 * * *"}]
