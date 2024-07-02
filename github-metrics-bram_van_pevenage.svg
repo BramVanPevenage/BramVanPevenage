@@ -417,8 +417,8 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -452,8 +452,8 @@
                             06
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             07
                         </div>
                         <div class="entry">
@@ -548,13 +548,13 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">2</span>
-                                <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">3</span>
+                                <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">3</span>
-                                <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">2</span>
+                                <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -637,7 +637,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.19746748802189 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.40965092402462 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1119,7 +1119,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jul 2024, 02:37:57 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jul 2024, 02:32:59 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
